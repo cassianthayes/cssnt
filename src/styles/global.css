@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@import "@skeletonlabs/skeleton";
+@import "@skeletonlabs/skeleton/themes/terminus";
+
+@import "@fontsource/jetbrains-mono";
+
+[data-theme="terminus"] {
+  --heading-font-family: "JetBrains Mono", monospace;
+  --base-font-family: "JetBrains Mono", monospace;
+  --anchor-font-family: "JetBrains Mono", monospace;
+}
